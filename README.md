@@ -9,3 +9,4 @@ for first experience
 */
 
 
+直接マスターに書き込むことはできるのか。
